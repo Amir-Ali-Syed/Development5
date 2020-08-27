@@ -1,0 +1,20 @@
+body {  
+    background-image: linear-gradient(to right, #153185 , #1f5685);
+    
+}
+
+#dashboard {
+    padding: 5%;
+    margin: auto;
+    text-align: center;
+}
+
+#statistics, #types{
+    display: inline-block;
+    background-color: #0b2a62;
+    padding: 1% 4% 1% 4%;
+    color: white;
+    text-decoration: none;
+    margin: 0 10%;
+    border-radius: 10px;
+}

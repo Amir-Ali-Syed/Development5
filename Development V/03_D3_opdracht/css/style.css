@@ -1,0 +1,53 @@
+body {
+    background-color: #eef3f4;
+}
+
+#generations {
+    background-color: whitesmoke;
+    border-radius: 6px;
+    margin: 1%;
+    padding: 4%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#generations button{
+    padding: 2%;
+    margin: 1%;
+    color: white;
+    background-color: #35acd9;
+    border-radius: 6px;
+    border: 0;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+}
+
+#pokemons {
+    background-color: whitesmoke;
+    border-radius: 6px;
+    margin: 1%;
+    padding: 4%;
+}
+
+#pokemons button {
+    padding: 2%;
+    margin: 1%;
+    color: whitesmoke;
+    border-radius: 6px;
+    border: 0;
+    box-shadow: 1px 1px 4px rgb(132, 146, 151);
+}
+
+#stats {
+    background-color: whitesmoke;
+    border-radius: 6px;
+    margin: 1%;
+    padding: 4%;
+}
+
+/* 
+colors from: https://bulbapedia.bulbagarden.net/wiki/Category:Type_color_templates
+*/
